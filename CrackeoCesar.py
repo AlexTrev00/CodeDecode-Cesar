@@ -1,6 +1,4 @@
-# Caesar Cipher Hacker
-# https://www.nostarch.com/crackingcodes (BSD Licensed)
-# LspeAqyrhsAqyrhmep
+
 message = input('Ingresa el mensaje: ')
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 
