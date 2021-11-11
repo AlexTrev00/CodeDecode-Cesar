@@ -1,4 +1,3 @@
-
 message = input('Ingresa el mensaje: ')
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890 !?.'
 
